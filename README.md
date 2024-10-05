@@ -15,7 +15,7 @@
    - Для Safari (macOS/iOS/iPadOS): [Userscripts для Safari](https://safari-extensions.apple.com/ru/app/userscripts/)
 
 2. После установки Tampermonkey, перейдите по следующей ссылке, чтобы установить этот скрипт:
-   [Установить скрипт](https://raw.githubusercontent.com/ZenonEl/redirect-youtube-to-piped/main/src/index.js)
+   [Установить скрипт](https://github.com/ZenonEl/Redirect-YouTube-to-Piped/raw/refs/heads/main/src/Redirect%20YouTube%20to%20Piped-1.1.user.js)
 
 ## Использование
 
