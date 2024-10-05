@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name            Easy way to quickly switch between YouTube and Piped
-// @description Devoted Piped user but sometimes encounter YouTube links? No problem! This extension lets you quickly jump between the two. 🌈
+// @description     Devoted Piped user but sometimes encounter YouTube links? No problem! This extension lets you quickly jump between the two. 🌈
 // @version         0.1.0
 // @author          ZenonEl (https://github.com/ZenonEl)
 // @license         GPL v3
