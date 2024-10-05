@@ -7,7 +7,7 @@
 // @match           https://www.youtube.com/*
 // @match           https://piped.video/*
 // @grant           none
-// @icon            https://github.com/ZenonEl/Redirect-YouTube-to-Piped/blob/main/assets/icon_64.png
+// @icon            https://raw.githubusercontent.com/ZenonEl/Redirect-YouTube-to-Piped/main/assets/icon_64.png
 // @namespace       https://github.com/ZenonEl/Redirect-YouTube-to-Piped/
 // @supportURL      https://github.com/ZenonEl/Redirect-YouTube-to-Piped/issues
 // @updateURL       https://github.com/ZenonEl/Redirect-YouTube-to-Piped/raw/refs/heads/main/src/Redirect%20YouTube%20to%20Piped-1.1.user.js
